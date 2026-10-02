@@ -51,7 +51,7 @@
     "@typesafe-ai/sdk": "^0.6.0"
   },
   "devDependencies": {
-    "@opencode-ai/plugin": "1.18.31",
+    "@opencode-ai/plugin": "1.18.33",
     "@types/node": "^26.5.1",
     "typescript": "~5.9.3"
   },
